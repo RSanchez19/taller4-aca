@@ -42,4 +42,4 @@ proyecto/
 
 - [Guía de instalación](guia/instalacion.md)
 - [Primeros pasos](guia/primeros-pasos.md)
-- [Referencia de la API](api/overview.md)
+- [Referencia de la API](api/endpoints.md)
