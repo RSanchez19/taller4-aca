@@ -1,0 +1,44 @@
+site_name: Odinia APP 
+site_description: Documentacion oficial de la API de Odinia APP
+site_author: RSanchez19
+
+theme:
+  name: material
+  language: es
+  features:
+    - content.code.copy
+
+nav:
+  - Inicio: index.md
+  - Guia de Uso:
+      - Introduccion: guia/introduccion.md
+      - Instalación: guia/instalacion.md
+      - Primeros pasos: guia/primeros-pasos.md
+  - Referencia API: 
+      - Visión general: api/overview.md
+      - Endpoints: api/endpoints.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: "#"
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+
+  
+  
+  
+
+
+
+
+
+
