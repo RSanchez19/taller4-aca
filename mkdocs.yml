@@ -11,11 +11,9 @@ theme:
 nav:
   - Inicio: index.md
   - Guia de Uso:
-      - Introduccion: guia/introduccion.md
       - Instalación: guia/instalacion.md
       - Primeros pasos: guia/primeros-pasos.md
   - Referencia API: 
-      - Visión general: api/overview.md
       - Endpoints: api/endpoints.md
 
 markdown_extensions:

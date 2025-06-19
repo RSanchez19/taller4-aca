@@ -1,12 +1,20 @@
-# Documentación del Proyecto
+# API de Odinia Wallet
 
-Bienvenido a la documentación oficial del proyecto Odinia. Aquí encontrarás toda la información necesaria para instalar, configurar y utilizar nuestra API de manera efectiva.
+Documentación oficial de la API de Odinia, una wallet virtual para la gestión de activos digitales.
+
+![Odinia Wallet](img/La_billetera_virtual.jpg)
+
+=== "Descripción"
+
+Esta API permite integrar las funcionalidades de Odinia en aplicaciones de terceros de manera segura y eficiente.
 
 ## Características Principales
 
-- Interfaz RESTful completa
+- Gestión de cuentas y balances
+- Transferencias entre usuarios
+- Soporte para múltiples criptomonedas
 - Autenticación segura mediante JWT
-- Documentación detallada de endpoints
+- Notificaciones de transacciones
 
 ## Inicio Rápido
 
